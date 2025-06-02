@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yi Ren (任意)"
-description              : "Focusing on video and speech large generation model."
-repository               : "rayeren/rayeren.github.io"
+title                    : "Qitong Chen (陈启通)"
+description              : "Focusing on fault diagnosis of rotating machinery."
+repository               : "https://github.com/qtchen730/QitongChen.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,7 +21,7 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Qitong Chen (陈启通)"
   avatar           : "images/ry_profile.jpeg"
   bio              : ""
   location         : "Singapore"
